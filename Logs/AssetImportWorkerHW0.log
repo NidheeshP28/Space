@@ -1,0 +1,473 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.2f1 (eb73d3b415a1) revision 15430611'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 12087 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Kasi Pusuluri" at "2026-07-21T04:12:51.8427544Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-07-21T04:12:51Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW0
+-projectPath
+C:/Users/Kasi Pusuluri/Documents/Space/Space2/FlappyBird3D
+-logFile
+Logs/AssetImportWorkerHW0.log
+-srvPort
+56331
+-parentPid
+57576
+-analyticsCloudUserId
+anonymous
+-analyticsCloudProjectId
+7f198136-f610-44d0-b818-a894860a5d65
+-analyticsLocalProjectId
+60f4827fe7853c34299e511fb5215eb0
+-licensingIpc
+LicenseClient-Kasi Pusuluri
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+3
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Kasi Pusuluri/Documents/Space/Space2/FlappyBird3D
+C:/Users/Kasi Pusuluri/Documents/Space/Space2/FlappyBird3D
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [37876]  Target information:
+
+Player connection [37876]  * "[IP] 10.0.0.208 [Port] 0 [Flags] 2 [Guid] 1104249961 [EditorId] 1104249961 [Version] 1048832 [Id] WindowsEditor(7,Work2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [37876] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [37876] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 18.55 ms, found 4 plugins.
+Initialize engine version: 6000.5.2f1 (eb73d3b415a1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Kasi Pusuluri/Documents/Space/Space2/FlappyBird3D/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:          Intel
+    VRAM:            6043 MB
+    App VRAM Budget: 5485 MB
+    Driver:          30.0.101.1692
+    Unified Memory Architecture
+    Cache Coherent UMA
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Kasi Pusuluri"
+[Licensing::IpcConnector] LicenseClient-Kasi Pusuluri channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Kasi Pusuluri-6000.5.2" at "2026-07-21T04:12:56.8305335Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 58472, path: "C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              40e970bda65c4f2e90572a46d56a7a77
+  Correlation Id:          3bc9f577a729a861259904c1d9a7f87a
+  External correlation Id: 5089575023112201264
+  Machine Id:              CPT38eYwRgMw8bW899h2Vo6d2ww=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Kasi Pusuluri-6000.5.2" (connect: 0.00s, validation: 0.01s, handshake: 0.04s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Kasi Pusuluri-6000.5.2-notifications" at "2026-07-21T04:12:56.8954074Z"
+[Licensing::Module] Licensing Background thread has ended after 5.05s
+[Licensing::Module] Licensing is initialized (took 2.49s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 20067249797651-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 2.531429 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.895 seconds
+Domain Reload Profiling: 5187ms
+	BeginReloadAssembly (287ms)
+		CreateAndSetChildDomain (4ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (54ms)
+	initialDomainReloadingComplete (2800ms)
+	LoadAllAssembliesAndSetupDomain (1132ms)
+		LoadAssemblies (286ms)
+		AnalyzeDomain (850ms)
+			TypeCache.Refresh (816ms)
+				TypeCache.ScanAssembly (659ms)
+			BuildScriptInfoCaches (16ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (898ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			BeforeProcessingInitializeOnLoad (162ms)
+			ProcessInitializeOnLoadAttributes (130ms)
+			ProcessInitializeOnLoadMethodAttributes (185ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 3: URL rejected: Malformed input to a URL function
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 38.92 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+<HackaTime> Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin:Initialize () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:76)
+WakaTime.Plugin:.cctor () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:41)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 76)
+
+<HackaTime> Sending heartbeat...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin/<SendHeartbeat>d__29:MoveNext () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:144)
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start<WakaTime.Plugin/<SendHeartbeat>d__29> (WakaTime.Plugin/<SendHeartbeat>d__29&)
+WakaTime.Plugin:SendHeartbeat (bool)
+WakaTime.Plugin:Initialize () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:78)
+WakaTime.Plugin:.cctor () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:41)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 144)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.885 seconds
+Domain Reload Profiling: 2494ms
+	BeginReloadAssembly (220ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (11ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (1279ms)
+		LoadAssemblies (566ms)
+		AnalyzeDomain (703ms)
+			TypeCache.Refresh (358ms)
+				TypeCache.ScanAssembly (321ms)
+			BuildScriptInfoCaches (333ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (886ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (415ms)
+			ProcessInitializeOnLoadMethodAttributes (166ms)
+			AfterProcessingInitializeOnLoad (12ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 5.91 ms, found 4 plugins.
+Curl error 3: URL rejected: Malformed input to a URL function
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+<HackaTime> Got response
+{"id":2664394228,"user_id":13764,"branch":"main","category":"coding","dependencies":[],"editor":"","entity":"Unsaved Scene","language":"unity","machine":null,"operating_system":"","project":"FlappyBird3D","type":"file","user_agent":"unity-hackatime","line_additions":null,"line_deletions":null,"lineno":null,"lines":null,"cursorpos":null,"project_root_count":null,"time":1784607232.0,"is_write":false,"created_at":"2026-07-21T04:12:51.354Z","updated_at":"2026-07-21T04:12:51.354Z","fields_hash":"cb4e2d40a2efaa7fb9e2c65b0c163a95","source_type":"direct_entry","ip_address":"2601:600:9280:2680:b026:c227:2406:50e7","deleted_at":null,"ja4_id":43}
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin/<SendHeartbeat>d__29:MoveNext () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:187)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<bool>:TrySetResult (bool)
+System.Threading.Tasks.TaskCompletionSource`1<bool>:TrySetResult (bool)
+WakaTime.Plugin/<>c__DisplayClass29_0:<SendHeartbeat>b__0 (UnityEngine.AsyncOperation) (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:176)
+UnityEngine.AsyncOperation:InvokeCompletionEvent ()
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 187)
+
+<HackaTime> Sent heartbeat!
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin/<SendHeartbeat>d__29:MoveNext () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:203)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<bool>:TrySetResult (bool)
+System.Threading.Tasks.TaskCompletionSource`1<bool>:TrySetResult (bool)
+WakaTime.Plugin/<>c__DisplayClass29_0:<SendHeartbeat>b__0 (UnityEngine.AsyncOperation) (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:176)
+UnityEngine.AsyncOperation:InvokeCompletionEvent ()
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 203)
+
+Unloading 6494 unused Assets / (8.6 MB). Loaded Objects now: 7143.
+Memory consumption went from 315.7 MB to 307.1 MB.
+Total: 35.032900 ms (FindLiveObjects: 1.582900 ms CreateObjectMapping: 5.960800 ms MarkObjects: 17.574700 ms  DeleteObjects: 9.908900 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Unloading 55 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (4.4 MB). Loaded Objects now: 7143.
+Memory consumption went from 308.2 MB to 303.7 MB.
+Total: 7.478700 ms (FindLiveObjects: 0.358500 ms CreateObjectMapping: 1.062900 ms MarkObjects: 5.352200 ms  DeleteObjects: 0.704000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+<HackaTime> Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin:Initialize () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:76)
+WakaTime.Plugin:.cctor () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:41)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 76)
+
+<HackaTime> Sending heartbeat...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin/<SendHeartbeat>d__29:MoveNext () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:144)
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start<WakaTime.Plugin/<SendHeartbeat>d__29> (WakaTime.Plugin/<SendHeartbeat>d__29&)
+WakaTime.Plugin:SendHeartbeat (bool)
+WakaTime.Plugin:Initialize () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:78)
+WakaTime.Plugin:.cctor () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:41)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 144)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.775 seconds
+Domain Reload Profiling: 1577ms
+	BeginReloadAssembly (219ms)
+		DisableScriptedObjects (5ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (484ms)
+		LoadAssemblies (427ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (9ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (776ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (327ms)
+			ProcessInitializeOnLoadMethodAttributes (139ms)
+			AfterProcessingInitializeOnLoad (8ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Unloading 55 Unused Serialized files (Serialized files now loaded: 0)
+<HackaTime> Got response
+{"id":2664394228,"user_id":13764,"branch":"main","category":"coding","dependencies":[],"editor":"","entity":"Unsaved Scene","language":"unity","machine":null,"operating_system":"","project":"FlappyBird3D","type":"file","user_agent":"unity-hackatime","line_additions":null,"line_deletions":null,"lineno":null,"lines":null,"cursorpos":null,"project_root_count":null,"time":1784607232.0,"is_write":false,"created_at":"2026-07-21T04:12:51.354Z","updated_at":"2026-07-21T04:12:51.354Z","fields_hash":"cb4e2d40a2efaa7fb9e2c65b0c163a95","source_type":"direct_entry","ip_address":"2601:600:9280:2680:b026:c227:2406:50e7","deleted_at":null,"ja4_id":43}
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin/<SendHeartbeat>d__29:MoveNext () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:187)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<bool>:TrySetResult (bool)
+System.Threading.Tasks.TaskCompletionSource`1<bool>:TrySetResult (bool)
+WakaTime.Plugin/<>c__DisplayClass29_0:<SendHeartbeat>b__0 (UnityEngine.AsyncOperation) (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:176)
+UnityEngine.AsyncOperation:InvokeCompletionEvent ()
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 187)
+
+<HackaTime> Sent heartbeat!
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WakaTime.Plugin/<SendHeartbeat>d__29:MoveNext () (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:203)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<bool>:TrySetResult (bool)
+System.Threading.Tasks.TaskCompletionSource`1<bool>:TrySetResult (bool)
+WakaTime.Plugin/<>c__DisplayClass29_0:<SendHeartbeat>b__0 (UnityEngine.AsyncOperation) (at ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs:176)
+UnityEngine.AsyncOperation:InvokeCompletionEvent ()
+
+(Filename: ./Library/PackageCache/com.daniel-geo.unityhackatime@5ac210a9a287/Editor/Plugin.cs Line: 203)
+
+Unloading 6491 unused Assets / (10.3 MB). Loaded Objects now: 7147.
+Memory consumption went from 311.0 MB to 300.7 MB.
+Total: 13.589400 ms (FindLiveObjects: 0.683500 ms CreateObjectMapping: 2.921000 ms MarkObjects: 4.745200 ms  DeleteObjects: 5.238300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 2.75 ms, found 4 plugins.
+Unloading 55 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (4.4 MB). Loaded Objects now: 7147.
+Memory consumption went from 308.9 MB to 304.5 MB.
+Total: 310.411200 ms (FindLiveObjects: 5.125100 ms CreateObjectMapping: 1.895600 ms MarkObjects: 300.392200 ms  DeleteObjects: 2.802000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportWorkerClient::OnTransportError - code=10054 error=An existing connection was forcibly closed by the remote host.
