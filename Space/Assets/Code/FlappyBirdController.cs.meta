@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ebcc5c04ae11cb84f9b30abb140e3221
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bird: {fileID: 7174564757966111099, guid: 657528f7a94aa45f294f22a6ca1e72c2, type: 3}
+  - PipePrefab: {fileID: 8129527252152719232, guid: cf26e94a8fefd4528b63654e4271463e, type: 3}
+  - WingsLeft: {instanceID: 0}
+  - WingsRight: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
